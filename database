@@ -1,0 +1,3 @@
+create table ( Name varchar2(20),
+Id number, Adddress varchar2(100)
+)
