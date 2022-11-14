@@ -1,0 +1,8 @@
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.csproj.AssemblyReference.cache
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.AssemblyInfoInputs.cache
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.AssemblyInfo.cs
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.csproj.CoreCompileInputs.cache
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.RazorAssemblyInfo.cache
+D:\Practice\AzureDevOps\Greensand\obj\Debug\netcoreapp3.1\Greensand.RazorAssemblyInfo.cs
